@@ -1,16 +1,20 @@
 ## Hi there 👋
+## 🌸 About Me
+I'm a Visual Communication Design student who loves illustration, especially in semi-realism and children illustration.  
+I enjoy exploring storytelling through art and building creative projects.
 
-<!--
-**RaraRestuH/RaraRestuH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎨 Skills & Tech Stack
+- ✏️ Illustration (Semi Realism & Children Illustration)
+- 🎨 Clip Studio Paint, Ibis Paint
+- 💻 Basic HTML & GitHub
+- 🧠 Creative Concept & Storytelling
 
-Here are some ideas to get you started:
+## 🌐 Social Media
+- I have [**Instagram**](https://www.instagram.com/rarochocobelle?igsh=MTh2NG1iZGd1cDVkeA==) for my art portofolio 
+- [**Tiktok**](tiktok.com/@rarochocobelle) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Fun Fact
+I love dark fantasy stories, thriller concepts, and creating characters with deep personalities.
+
+## 🎀 Quote
+Art is not just what I create, it's how I tell stories without words.
