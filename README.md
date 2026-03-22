@@ -12,7 +12,7 @@ I enjoy exploring storytelling through art and building creative projects.
 ## 🎨 Skills 
 
 - ✏️ Illustration (Semi Realism & Children Illustration)
-- 🎨 Clip Studio Paint, Ibis Paint, Procreate, Gopaint, Procreate Dreams, ToonSquib
+- 🎨 Clip Studio Paint, Ibis Paint, Procreate, Gopaint, Procreate Dreams, ToonSquib, Canva
 - 🧠 Creative Concept & Storytelling
 
 
@@ -49,4 +49,4 @@ I love dark fantasy stories, thriller concepts, and creating characters with dee
 
 ## My Github Stat
 
-
+[![Rara Restu h stats](https://github-readme-stats.vercel.app/api?username=RaraRestuH)]
