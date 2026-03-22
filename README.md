@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone, I`m Rara Restu Humaira 👋
 ## 🌸 About Me
 I'm a Visual Communication Design student who loves illustration, especially in semi-realism and children illustration.  
 I enjoy exploring storytelling through art and building creative projects.
