@@ -44,10 +44,16 @@ I love dark fantasy stories, thriller concepts, and creating characters with dee
 
 ## 🎀 Quote
 
-[**"Art is not just what I create, it's how I tell stories without words."**]
+**"Art is not just what I create, it's how I tell stories without words."**
 
 ![Stories](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdpZno4Z2NxamYwM25veDZmdG40eDdiYnFoYTBvaXF1NmtwYmQydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KZAWQgOICfcdtoHTEX/giphy.gif)
 
 ## My Github Stat
 
 ![Rara Restu h stats](https://github-readme-stats.vercel.app/api?username=RaraRestuH)
+
+
+
+So, thank you for visiting my profile. I’m currently learning and exploring illustration, coding, and UI/UX design, creating visuals and experiences that grow along with my skills. Every project reflects my journey ✨
+
+![Thank You](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhiYWp4ZmF3NjY1dHg0MWs0ZWl0ZXg2aDgyYXM4NXJwaWF6bmJvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PH9saRidMXIs/giphy.gif)
