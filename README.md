@@ -49,4 +49,4 @@ I love dark fantasy stories, thriller concepts, and creating characters with dee
 
 ## My Github Stat
 
-[![Rara Restu h stats](https://github-readme-stats.vercel.app/api?username=RaraRestuH)]
+![Rara Restu h stats](https://github-readme-stats.vercel.app/api?username=RaraRestuH)
