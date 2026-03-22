@@ -25,7 +25,7 @@ I enjoy exploring storytelling through art and building creative projects.
 
 ![https://medium.com/@rarochocobelle](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-img
+![https://www.wattpad.com./user/RaraRestu](https://img.shields.io/badge/Wattpad-F96854?style=for-the-badge&logo=wattpad&logoColor=white)
   
 
 ## 💡 Fun Fact
