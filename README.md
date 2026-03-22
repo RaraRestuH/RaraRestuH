@@ -1,4 +1,5 @@
 ## Hi Everyone, I`m Rara Restu Humaira 👋
+![Say Hello](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZ6M3N0dGpxcmI4eDRxa3h3N3MzZTloNDhtN2VqYmo0dGxiOTF4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zpAbZXhdlCOsM/giphy.gif)
 ## 🌸 About Me
 I'm a Visual Communication Design student who loves illustration, especially in semi-realism and children illustration.  
 I enjoy exploring storytelling through art and building creative projects.
