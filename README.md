@@ -18,11 +18,11 @@ I enjoy exploring storytelling through art and building creative projects.
 
 ## 🌐 Social Media
 
-- I have [**Instagram**](https://www.instagram.com/rarochocobelle?igsh=MTh2NG1iZGd1cDVkeA==) for my art portofolio
+- I have [**Instagram**](https://www.instagram.com/rarochocobelle?igsh=MTh2NG1iZGd1cDVkeA==) for my Art Portofolio
   
-- [**Tiktok**](tiktok.com/@rarochocobelle) for my Art Videos content
+- [**Tiktok**](tiktok.com/@rarochocobelle) for my Art Videos Content
 
-- and [**Threads**](https://www.threads.com/@rarochocobelle) for my arts documentations
+- and [**Threads**](https://www.threads.com/@rarochocobelle) for my Arts Documentations
 
 ## 💻 Basic HTML & GitHub
 
