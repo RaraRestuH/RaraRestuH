@@ -10,18 +10,24 @@ I enjoy exploring storytelling through art and building creative projects.
 ## 🎨 Skills 
 
 - ✏️ Illustration (Semi Realism & Children Illustration)
-- 🎨 Clip Studio Paint, Ibis Paint
+- 🎨 Clip Studio Paint, Ibis Paint, Procreate, Gopaint, Procreate Dreams, ToonSquib
 - 🧠 Creative Concept & Storytelling
 
 ![Creative](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjljMjJzMjJzem5hZTJqcXJoa3g5bDdzaWZiZ21kb3B3anZ1amVidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nAPg6ByO12P3ilpfrY/giphy.gif)
 
 ## 🌐 Social Media
-- I have [**Instagram**](https://www.instagram.com/rarochocobelle?igsh=MTh2NG1iZGd1cDVkeA==) for my art portofolio 
-- [**Tiktok**](tiktok.com/@rarochocobelle)
 
-## `💻 Basic HTML & GitHub
+- I have [**Instagram**](https://www.instagram.com/rarochocobelle?igsh=MTh2NG1iZGd1cDVkeA==) for my art portofolio
+  
+- [**Tiktok**](tiktok.com/@rarochocobelle) for my Art Videos content
 
-## Blog
+- and [**Threads**](https://www.threads.com/@rarochocobelle) for my arts documentations
+
+## 💻 Basic HTML & GitHub
+
+<img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+## ✍️ Blog
 
 ![https://medium.com/@rarochocobelle](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![https://www.wattpad.com./user/RaraRestu](https://img.shields.io/badge/Wattpad-F96854?style=for-the-badge&logo=wattpad&logoColor=white)
