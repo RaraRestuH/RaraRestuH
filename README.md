@@ -44,7 +44,7 @@ I love dark fantasy stories, thriller concepts, and creating characters with dee
 
 ## 🎀 Quote
 
-Art is not just what I create, it's how I tell stories without words.
+[**"Art is not just what I create, it's how I tell stories without words."**]
 
 ![Stories](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdpZno4Z2NxamYwM25veDZmdG40eDdiYnFoYTBvaXF1NmtwYmQydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KZAWQgOICfcdtoHTEX/giphy.gif)
 
