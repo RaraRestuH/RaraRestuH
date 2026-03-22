@@ -32,7 +32,8 @@ I enjoy exploring storytelling through art and building creative projects.
 
 ![https://medium.com/@rarochocobelle](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 ![https://www.wattpad.com./user/RaraRestu](https://img.shields.io/badge/Wattpad-F96854?style=for-the-badge&logo=wattpad&logoColor=white)
-  
+![https://wordpress.com/home/rarochocobelle.wordpress.com](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![https://www.behance.net/rarahumaira](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 
 ## 💡 Fun Fact
 
