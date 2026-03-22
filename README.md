@@ -14,6 +14,7 @@ I enjoy exploring storytelling through art and building creative projects.
 - ✏️ Illustration (Semi Realism & Children Illustration)
 - 🎨 Clip Studio Paint, Ibis Paint, Procreate, Gopaint, Procreate Dreams, ToonSquib, Canva
 - 🧠 Creative Concept & Storytelling
+- 💻 Coding & UI/UX Design
 
 
 ## 🌐 Social Media
