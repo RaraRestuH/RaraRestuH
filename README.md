@@ -35,6 +35,10 @@ I enjoy exploring storytelling through art and building creative projects.
 ![https://wordpress.com/home/rarochocobelle.wordpress.com](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![https://www.behance.net/rarahumaira](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 
+## My Github Stat
+
+![Rara Restu h stats](https://github-readme-stats.vercel.app/api?username=RaraRestuH)
+
 ## 💡 Fun Fact
 
 I love dark fantasy stories, thriller concepts, and creating characters with deep personalities. Always, love it!
@@ -47,10 +51,6 @@ I love dark fantasy stories, thriller concepts, and creating characters with dee
 **"Art is not just what I create, it's how I tell stories without words."**
 
 ![Stories](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGdpZno4Z2NxamYwM25veDZmdG40eDdiYnFoYTBvaXF1NmtwYmQydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KZAWQgOICfcdtoHTEX/giphy.gif)
-
-## My Github Stat
-
-![Rara Restu h stats](https://github-readme-stats.vercel.app/api?username=RaraRestuH)
 
 
 
