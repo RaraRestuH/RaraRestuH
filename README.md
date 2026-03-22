@@ -3,6 +3,7 @@
 ## 🌸 About Me
 I'm a Visual Communication Design student who loves illustration, especially in semi-realism and children illustration.  
 I enjoy exploring storytelling through art and building creative projects.
+![Projects](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZwM3pvdThpY3F1NDRhbXBiaXNkemNidHVwZzVsZWliYW90b3hhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ErMA0xAS1Urd4e4/giphy.gif)
 
 ## 🎨 Skills & Tech Stack
 - ✏️ Illustration (Semi Realism & Children Illustration)
